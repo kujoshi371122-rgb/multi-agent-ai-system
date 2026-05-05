@@ -1,7 +1,19 @@
-.venv/
+# Python
+venv/
 __pycache__/
 *.pyc
-.env
+
+# Node
 node_modules/
-uploads/
-*.log
+dist/
+
+# Logs & data
+logs/
+data/
+
+# Env
+.env
+
+# OS
+.DS_Store
+Thumbs.db
